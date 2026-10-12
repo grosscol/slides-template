@@ -6,9 +6,7 @@ title: Demo Slides
 # First Title
 Welcome to the first slide.
 
-Display Lab
-
-2019-05-21
+2026-06-17
 
 # Second Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
