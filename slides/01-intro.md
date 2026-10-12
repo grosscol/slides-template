@@ -1,5 +1,5 @@
 ---
-author: Display Lab
+author: Colin Gross
 title: Demo Slides
 ---
 
